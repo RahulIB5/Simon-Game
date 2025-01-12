@@ -11,4 +11,4 @@ F-Blue
 
 ## Hope you ennjoy the game.🎮  
 
-![Sorry Blind ppl](/images/simonSS.jpg)
+![Sorry Blind ppl](/images/simonSS.png)
