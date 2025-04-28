@@ -1,4 +1,4 @@
-# Simon-Game
+# [Simon-Game](https://rahulib5.github.io/Simon-Game/)
 This game is simple there will be pattern of colors highlighted on each level and you have to remember it and press the same pattern of colors ypu either win or loose.  
 
 ### Improvisation from Angela  
